@@ -1,7 +1,7 @@
 # Fizz Buzz
 
 The simple Fizz Buzz application used to demonstrate how AWS CodeBuild works.  
-The full blog post is available here: [AWS再入門ブログリレー2022 AWS CodeBuild編 | DevelopersIO](https://dev.classmethod.jp/articles/re-introducation-2022-aws-codebuiold/)
+The full blog post is available here: [AWS CodeBuild คืออะไร? แนะนำฟังก์ชันของ AWS สำหรับผู้เริ่มต้นใช้งาน | DevelopersIO](https://dev.classmethod.jp/articles/what-is-aws-codebuild-2024-th/)
 
 # Getting Started
 
@@ -15,4 +15,4 @@ Install dependencies
 
 Perform a test
 
-```npm run test```
+```npm test```
